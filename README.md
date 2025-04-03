@@ -1,6 +1,6 @@
 <br>
 <br>
-  <h1 align="center">Web/Mobile</h1>
+  <h1 align="center">Still, Can do this all day</h1>
   <h3 align="center">Caffeine gets me coding ☕,<br>Nicotine keeps me sane 🚬,<br>and Beer makes me brilliant 🍺</h3>
 <br>
 <p align="center">
