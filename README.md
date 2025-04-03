@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
-<h3 align="center">Caffeine gets me coding ☕,<br>Nicotine keeps me sane 🚬,<br>and Beer makes me brilliant 🍺</h4>
+<h3 align="center">Caffeine☕ gets me coding,<br>Nicotine🚬 keeps me sane,<br>and Beer🍺 makes me brilliant</h4>
 <h3 align="center">ALWAYS</h3>
 <br>
 <br>
