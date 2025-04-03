@@ -1,7 +1,7 @@
 <br>
 <br>
   <h1 align="center">Web/Mobile</h1>
-  <h3 align="center">Code powered by caffeine ☕, nicotine 🚬, and a hint of alcohol 🍺</h3>
+  <h3 align="center">Code powered by caffeine ☕, driven by nicotine 🚬, and a hint of alcohol 🍺</h3>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
