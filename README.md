@@ -4,7 +4,11 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
-<p align="center">Web/Mobile – Code powered by caffeine ☕, nicotine 🚬, and a hint of alcohol 🍺</p>
+
+<p align="center" style="margin-top: 40px; margin-bottom: 40px; font-size: 16px; font-weight: 400; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
+  Web/Mobile – Code powered by caffeine ☕, nicotine 🚬, and a hint of alcohol 🍺
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
